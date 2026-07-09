@@ -74,3 +74,12 @@ p {
   margin-top: 0;
   padding: 40px;
 }
+a {
+    color: hotpink;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(236, 36, 133);
+    text-decoration: underline;
+}
